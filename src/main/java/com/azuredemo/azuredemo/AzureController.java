@@ -8,6 +8,6 @@ public class AzureController {
 
     @GetMapping("/azure")
     public String hello() {
-        return "Hello World";
+        return "Hello  Azure  World";
     }
 }
